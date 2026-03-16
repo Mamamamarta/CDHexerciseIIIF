@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mamamamarta.github.io/CDHexerciseIIIF/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Mamamamarta/CDHexerciseIIIF project"
+        ]
+    },
+    "items": []
+}
